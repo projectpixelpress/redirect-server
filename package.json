@@ -1,0 +1,11 @@
+{
+  "name": "redirect-server",
+  "version": "1.0.0",
+  "description": "A simple server that just redirect somewhere lse",
+  "main": "server.js",
+  "author": "Evan <evan@projectpixelpress.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
